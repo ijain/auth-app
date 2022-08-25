@@ -29,7 +29,7 @@ class LoginModel
 
             $result = $stmt->fetch(PDO::FETCH_ASSOC);
 
-            return !$result ? [] : $result;
+            return $result === false ? [] : $result;
         } catch (PDOException $e) {
             return [];
         }
