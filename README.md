@@ -1,4 +1,4 @@
-# Slim Framework 4 Skeleton Application
+# Test task. User registration using Slim framework.
 
 PHP version 8.0
 
