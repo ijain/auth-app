@@ -6,6 +6,8 @@ MySql 8.0.30 for Linux
 
 OS Ubuntu 20.04.4 LTS
 
+Framework Slim 4.10.0
+
 Setup instructions
 ---------------------------------------------
 1) Copy .env.example to .env
